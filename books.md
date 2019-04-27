@@ -1,6 +1,6 @@
 # Books
 
-I enjoy reading quite a bit. I keep a running [list of books](https://philmohun.com/Books-I-Recommend) that I would recommend to anyone. This space is used to catalog books that I have read and when I started them. 
+I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-Recommend) that I would recommend to anyone. This space is used to catalog books that I have read and when I started them. 
 
 **Legend:**
 
@@ -8,8 +8,17 @@ I enjoy reading quite a bit. I keep a running [list of books](https://philmohun.
 
 🧠Thought provoking
 
+**Category:**
+
+**\[SF\]** Science Fiction
+
+**\[B\]** Biography
+
+**\[NF\]** Non-Fiction
+
 ### 2019
 
-* Turing's Cathedral 🧠
-* The Everything Store
+* Turing's Cathedral \[NF\] 🧠
+* The Everything Store \[B\]
+* Surely You're Joking, Mr. Fenyman \[B\] 🌟
 
