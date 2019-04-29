@@ -2,4 +2,5 @@
 
 * [Start here!](README.md)
 * [Books](books.md)
+* [Quotes](quotes.md)
 
