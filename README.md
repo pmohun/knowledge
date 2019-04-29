@@ -18,7 +18,7 @@ Feel free to start with the sidebar and poke around for topics you find interest
 
 ## Get in touch.
 
-You can provide comments by editing this repository [on Github](https://github.com/pmohun/knowledge/blob/master/README.md). 
+You can provide comments by editing this repository [on Github](https://github.com/pmohun/knowledge/pulls). 
 
 If you want to reach out directly, you can reach me at philmohun \(at\) gmail.com
 
