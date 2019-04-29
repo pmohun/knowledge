@@ -22,3 +22,8 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 * The Everything Store \[B\]
 * Surely You're Joking, Mr. Fenyman \[B\] 🌟
 
+### 2018
+
+* Factfulness \[NF\] 🌟
+* Sapiens \[NF\] 🧠
+

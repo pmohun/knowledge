@@ -22,5 +22,5 @@ You can provide comments by editing this repository [on Github](https://github.c
 
 If you want to reach out directly, you can reach me at philmohun \(at\) gmail.com
 
-I also write blogs [on Medium](https://medium.com/@philmohun/latest), short stories [on my website](https://philmohun.com), publish a [weekly newsletter](https://philmohun.substack.com), and think aloud [on Twitter](https://twitter.com/philmohun).
+I also write blogs [on Medium](https://medium.com/@philmohun/latest), post short stories [on my website](https://philmohun.com), publish a [weekly newsletter](https://philmohun.substack.com), and think aloud [on Twitter](https://twitter.com/philmohun).
 
