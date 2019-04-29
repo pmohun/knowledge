@@ -22,7 +22,7 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 | 2018 | Machine Learning | Hugh Howey | SF | - |
 | 2018 | Stories of Your Life and Others | Ted Chiang | SF | - |
 | 2017 | Hyperion Cantos | Dan Simmons | SF | 🌟 |
-| 2017 | Saturn Run | John Sandford | F | - |
+| 2017 | Saturn Run | John Sandford | SF | - |
 | 2017 | Trilogy War Stories | Ken Follett | F | - |
 | 2017 | Hitchhiker's Guide to the Galaxy | Douglas Adams | F | 🌟 |
 | 2017 | The Dark Tower Series | Stephen King | F, H | - |
@@ -54,13 +54,15 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 | Unknown | Sharp Objects | Gillian Flynn | F | - |
 | Unknown | The Inheritance Cycle | Christopher Paolini | F, YA | - |
 
-## **Legend:**
+## **Legend**
+
+**Personal Recommendations**
 
 🌟Highly recommend
 
 🧠Thought provoking
 
-**Category:**
+**Category**
 
 **\[SF\]** Science Fiction \| **\[B\]** Biography \| **\[NF\]** Non-Fiction \| **\[F\]** Fiction \| **\[P\]** Philosophy
 
