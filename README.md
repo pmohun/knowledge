@@ -10,7 +10,7 @@ I spend a lot of time online. This wiki is a way for me to catalog the things th
 
 ## How does it work?
 
-All of the information is hosted on my [Github](https://github.com/pmohun) and written in Markdown. Content is organized into topics and contains raw notes, links to projects, and references. Although the wiki is mostly for personal use, I try to write in a way that makes it accessible for anyone. 
+All of the information is hosted on my [Github](https://github.com/pmohun/knowledge) and written in Markdown. Content is organized into topics and contains raw notes, links to projects, and references. Although the wiki is mostly for personal use, I try to write in a way that makes it accessible for anyone. 
 
 ## How do I use it?
 
