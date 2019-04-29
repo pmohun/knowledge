@@ -1,34 +1,40 @@
+---
+description: >-
+  I love quotes that are succinct and honest. Included below are some of my
+  favorites.
+---
+
 # Quotes
 
 ## Stephen King
 
-His fingers were permanently yellowed with chalk dust rather than nicotine but it was still The residue of an addicting substance
+_His fingers were permanently yellowed with chalk dust rather than nicotine but it was still the residue of an addicting substance._ - Salems Lot
 
-Alone. Yes, thats the key word, the most awful word in the English tongue. Murder doesn't hold a candle to it and hell is only a poor synonym....
+_Alone. Yes, thats the key word, the most awful word in the English tongue. Murder doesn't hold a candle to it and hell is only a poor synonym...._ - Salems Lot
 
 ## Frank Herbert
 
-Your habits always come hunting after you. The self you construct will haunt you
+_Your habits always come hunting after you. The self you construct will haunt you_
 
-And the price we paid was the price men have always paid for achieving a paradise in this life — we went soft, we lost our edge.
+_And the price we paid was the price men have always paid for achieving a paradise in this life — we went soft, we lost our edge._
 
-Hope clouds observation.
+_Hope clouds observation._
 
-It is so shocking to find out how many people do not believe that they can learn, and how many more believe learning to be difficult.
+_It is so shocking to find out how many people do not believe that they can learn, and how many more believe learning to be difficult._
 
-To stay awake all night adds a day to your life.
+_To stay awake all night adds a day to your life._
 
-Parting with friends is a sadness. A place is only a place.
+_Parting with friends is a sadness. A place is only a place._
 
-Show me a completely smooth operation and I’ll show you someone who’s covering mistakes. Real boats rock.
+_Show me a completely smooth operation and I’ll show you someone who’s covering mistakes. Real boats rock._
 
-And always, he fought the temptation to choose a clear, safe course, warning "That path leads ever down into stagnation."
+_And always, he fought the temptation to choose a clear, safe course, warning "That path leads ever down into stagnation."_
 
-Good government never depends upon laws, but upon the personal qualities of those who govern.
+_Good government never depends upon laws, but upon the personal qualities of those who govern._
 
-Laws to suppress tend to strengthen what they would prohibit.
+_Laws to suppress tend to strengthen what they would prohibit._
 
 ## Vladamir Zworykin
 
-One cannot Stumble on an idea unless one is running - Turing's Cathedral p. 67
+_One cannot stumble on an idea unless one is running._ - Turing's Cathedral p. 67
 
