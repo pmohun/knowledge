@@ -4,7 +4,7 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 
 ## Catalog
 
-| Year Read | Title | Author | Category | Legend |
+| Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
 | 2019 | Art of War | Sun Tzu | P | - |
 | 2019 | Flowers for Algernon | Daniel Keyes | F | - |
