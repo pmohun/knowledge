@@ -33,31 +33,32 @@ description: >-
 | 2017 | The Dark Tower Series | Stephen King | F, H | - |
 | 2017 | Salem's Lot | Stephen King | H | - |
 | 2016 | Brave New World | Aldous Huxley | F | - |
-| Unknown | Fahreinheit 451 | Ray Bradbury | F | - |
-| Unknown | 1984 | George Orwell | F | - |
-| Unknown | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
-| Unknown | Foundation Series | Isaac Asimov | SF | 🌟 |
-| Unknown | Robot Series | Isaac Asimov | SF | - |
-| Unknown | Dune | Frank Herbert | SF | 🌟 |
-| Unknown | His Dark Materials Series | Philip Pullman | F, YA | 🌟 |
-| Unknown | Artemis Fowl Series | Eoin Colfer | F, YA | - |
-| Unknown | The Keys to the Kingdom Series | Garth Nix | F, YA | - |
-| Unknown | The Great Tree of Avalon | TA Barron | F, YA | - |
-| Unknown | The Heir Chronicles | Cinda W. Chima | F, YA | - |
-| Unknown | The Merlin Saga | TA Barron | F, YA | - |
-| Unknown | Dragonlance Series | Weis & Hickman | F, YA | - |
-| Unknown | Pendragon Series | DJ MacHale | F, YA | - |
-| Unknown | Bartimaeus Trilogy | Jonathan Stroud | F, YA | - |
-| Unknown | The Chronicles of Narnia | CS Lewis | F, YA | 🌟 |
-| Unknown | The Merlin Conspiracy | Diana W. Jones | F, YA | - |
-| Unknown | The Lord of the Rings | JRR Tolkein | F | - |
-| Unknown | Game of Thrones | George RR Martin | F | - |
-| Unknown | Harry Potter | JK Rowling | F, YA | - |
-| Unknown | Pebble in the Sky | Isaac Asimov | SF | - |
-| Unknown | The Stars, Like Dust | Isaac Asimov | SF | - |
-| Unknown | Nightfall | Isaac Asimov | SF | 🌟 |
-| Unknown | Sharp Objects | Gillian Flynn | F | - |
-| Unknown | The Inheritance Cycle | Christopher Paolini | F, YA | - |
+| - | Fahreinheit 451 | Ray Bradbury | F | - |
+| - | 1984 | George Orwell | F | - |
+| - | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
+| - | Foundation Series | Isaac Asimov | SF | 🌟 |
+| - | Robot Series | Isaac Asimov | SF | - |
+| - | Dune | Frank Herbert | SF | 🌟 |
+| - | His Dark Materials Series | Philip Pullman | F, YA | 🌟 |
+| - | Artemis Fowl Series | Eoin Colfer | F, YA | - |
+| - | The Keys to the Kingdom Series | Garth Nix | F, YA | - |
+| - | The Great Tree of Avalon | TA Barron | F, YA | - |
+| - | The Hunger Games | Suzanne Collins | F, YA | - |
+| - | The Heir Chronicles | Cinda W. Chima | F, YA | - |
+| - | The Merlin Saga | TA Barron | F, YA | - |
+| - | Dragonlance Series | Weis & Hickman | F, YA | - |
+| - | Pendragon Series | DJ MacHale | F, YA | - |
+| - | Bartimaeus Trilogy | Jonathan Stroud | F, YA | - |
+| - | The Chronicles of Narnia | CS Lewis | F, YA | 🌟 |
+| - | The Merlin Conspiracy | Diana W. Jones | F, YA | - |
+| - | The Lord of the Rings | JRR Tolkein | F | - |
+| - | Game of Thrones | George RR Martin | F | - |
+| - | Harry Potter | JK Rowling | F, YA | - |
+| - | Pebble in the Sky | Isaac Asimov | SF | - |
+| - | The Stars, Like Dust | Isaac Asimov | SF | - |
+| - | Nightfall | Isaac Asimov | SF | 🌟 |
+| - | Sharp Objects | Gillian Flynn | F | - |
+| - | The Inheritance Cycle | Christopher Paolini | F, YA | - |
 
 ## **Legend**
 
