@@ -23,6 +23,8 @@ description: >-
 | 2018 | Factfulness | Hans Rosling | NF | 🧠 |
 | 2018 | Becoming | Michelle Obama | B | - |
 | 2018 | Sapiens: A Brief History of Human Kind | Yuval Noah Harari | NF | 🧠 |
+| 2018 | The Collapsing Empire | John Scalzi | SF | - |
+| 2018 | The Last Lecture | Randy Pausch | AB | - |
 | 2018 | The Hard Thing About Hard Things | Ben Horowitz | M | 🌟 |
 | 2018 | Machine Learning | Hugh Howey | SF | - |
 | 2018 | Stories of Your Life and Others | Ted Chiang | SF | - |
