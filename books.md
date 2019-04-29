@@ -4,8 +4,8 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 
 ## Catalog
 
-| Year | Title | Author | Category | Legend |
-| :--- | :--- | :--- | :--- | :---: |
+| Year Read | Title | Author | Category | Legend |
+| ---: | :--- | :--- | :---: | :---: |
 | 2019 | Art of War | Sun Tzu | P | - |
 | 2019 | Flowers for Algernon | Daniel Keyes | F | - |
 | 2019 | Turing's Cathedral | George Dyson | NF | 🧠 |
