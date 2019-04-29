@@ -1,6 +1,11 @@
-# Books
+---
+description: >-
+  I enjoy reading. I keep a running list of books that I would recommend to
+  anyone. This space is used to catalog books that I have read and when I
+  started them.
+---
 
-I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-Recommend) that I would recommend to anyone. This space is used to catalog books that I have read and when I started them. 
+# Books
 
 ## Catalog
 
