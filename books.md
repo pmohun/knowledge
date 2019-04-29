@@ -13,6 +13,7 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 | 2019 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 |
 | 2019 | Zero to One | Peter Thiel | M | - |
 | 2019  | Shoe Dog | Phil Knight | AB | 🌟 |
+| 2019 | Become What You Are | Alan Watts | P | - |
 | 2019 | Can't Hurt Me | David Goggins | AB | - |
 | 2018 | Factfulness | Hans Rosling | NF | 🧠 |
 | 2018 | Becoming | Michelle Obama | B | - |
@@ -22,9 +23,16 @@ I enjoy reading. I keep a running [list of books](https://philmohun.com/Books-I-
 | 2018 | Stories of Your Life and Others | Ted Chiang | SF | - |
 | 2017 | Hyperion Cantos | Dan Simmons | SF | 🌟 |
 | 2017 | Saturn Run | John Sandford | F | - |
+| 2017 | Trilogy War Stories | Ken Follett | F | - |
+| 2017 | Hitchhiker's Guide to the Galaxy | Douglas Adams | F | 🌟 |
 | 2017 | The Dark Tower Series | Stephen King | F, H | - |
 | 2017 | Salem's Lot | Stephen King | H | - |
+| 2016 | Brave New World | Aldous Huxley | F | - |
+| Unknown | Fahreinheit 451 | Ray Bradbury | F | - |
+| Unknown | 1984 | George Orwell | F | - |
+| Unknown | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
 | Unknown | Foundation Series | Isaac Asimov | SF | 🌟 |
+| Unknown | Robot Series | Isaac Asimov | SF | - |
 | Unknown | Dune | Frank Herbert | SF | 🌟 |
 | Unknown | His Dark Materials Series | Philip Pullman | F, YA | 🌟 |
 | Unknown | Artemis Fowl Series | Eoin Colfer | F, YA | - |
