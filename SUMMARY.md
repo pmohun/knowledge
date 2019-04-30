@@ -8,8 +8,16 @@
 
 ## Places
 
-* [North America](places/north-america.md)
-* [South America](places/south-america.md)
-* [Europe](places/europe.md)
+* [North America](places/north-america/README.md)
+  * [Miami, Florida](places/north-america/miami-florida.md)
+  * [Atlanta, Georgia](places/north-america/atlanta-georgia.md)
+  * [Syracuse, New York](places/north-america/syracuse-new-york.md)
+  * [Los Angeles, California](places/north-america/los-angeles-california.md)
+  * [New York, New York](places/north-america/new-york-new-york.md)
+  * [Buffalo, New York](places/north-america/buffalo-new-york.md)
+* [South America](places/south-america/README.md)
+  * [Quito, Ecuador](places/south-america/quito-ecuador.md)
+* [Europe](places/europe/README.md)
+  * [Madrid, Spain](places/europe/madrid-spain.md)
 * [Africa](places/africa.md)
 
