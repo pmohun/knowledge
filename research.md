@@ -26,6 +26,8 @@ description: >-
 | Machine Learning | 2016 | Inherent Trade-offs in the Fair Determination of Risk Scores | Kleinberg | [Link](https://arxiv.org/abs/1609.05807) |
 | Physics | 2018 | A unifying theory of dark energy and dark matter | Farnes | [Link](https://arxiv.org/pdf/1712.07962.pdf) |
 | Software Engineering | 2017 | Software Engineering @ Google | Henderson | [Link](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) |
+| Cryptography | 2018 | Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts | Oasis Labs | [Link](https://arxiv.org/pdf/1804.05141.pdf) |
+| Distributed Systems | 2018 | DFINITY Technology Overview Series Consensus System | DFINITY | [Link](https://dfinity.org/static/dfinity-consensus-0325c35128c72b42df7dd30c22c41208.pdf) |
 | Technology | 2018 | Reinventing Societal Infrastructure with Technology | Khosla | [Link](https://medium.com/@vkhosla/reinventing-societal-infrastructure-with-technology-f71e0d4f2355) |
 | Neuroscience | 2018 | Cortical control of a tablet computer by people with paralysis | Multiple | [Link](https://web.stanford.edu/~shenoy/GroupPublications/NuyujukianEtAlPLoSOne2018.pdf) |
 | Machine Learning | 2017 | A Brief Survey of Reinforcement Learning | Arulkumaran; Brundage | [Link](https://arxiv.org/abs/1708.05866v2) |
