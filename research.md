@@ -1,5 +1,8 @@
 ---
-description: I like to stay current on research in fields that interest me.
+description: >-
+  I like to stay current on research in fields that interest me. I typically
+  browse communities that discuss academic topics, and dive into papers if I
+  want to gain deeper knowledge on the subject.
 ---
 
 # Research
@@ -15,6 +18,7 @@ description: I like to stay current on research in fields that interest me.
 | :--- | ---: | :--- | :--- | :--- |
 | Neuroscience | 2015 | Using space and time to encode vibrotactile information | Eagleman | [Link](https://link.springer.com/article/10.1007%2Fs00221-015-4346-1) |
 | Blockchain | 2014 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Buterin | [Link](https://github.com/ethereum/wiki/wiki/White-Paper#alternative-blockchain-applications) |
+| Blockchain | 2008 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto | [Link](https://bitcoin.org/bitcoin.pdf?) |
 | Machine Learning | 2014 | Generative Adversarial Networks | Goodfellow | [Link](https://arxiv.org/abs/1406.2661) |
 | Artificial Intelligence | 2017 | AI Principles | Future of Life Institute | [Link](https://futureoflife.org/ai-principles/) |
 | Artificial Intelligence | 2018 | Artificial Intelligence, Robotics and ‘Autonomous’ Systems | European Group on Ethics in Science and New Technologies | [Link](https://ec.europa.eu/research/ege/pdf/ege_ai_statement_2018.pdf) |
@@ -24,4 +28,5 @@ description: I like to stay current on research in fields that interest me.
 | Software Engineering | 2017 | Software Engineering @ Google | Henderson | [Link](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) |
 | Technology | 2018 | Reinventing Societal Infrastructure with Technology | Khosla | [Link](https://medium.com/@vkhosla/reinventing-societal-infrastructure-with-technology-f71e0d4f2355) |
 | Neuroscience | 2018 | Cortical control of a tablet computer by people with paralysis | Multiple | [Link](https://web.stanford.edu/~shenoy/GroupPublications/NuyujukianEtAlPLoSOne2018.pdf) |
+| Machine Learning | 2017 | A Brief Survey of Reinforcement Learning | Arulkumaran; Brundage | [Link](https://arxiv.org/abs/1708.05866v2) |
 
