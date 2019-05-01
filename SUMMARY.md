@@ -3,10 +3,9 @@
 * [Start here!](README.md)
 * [Books](books.md)
 * [Quotes](quotes.md)
-* [Unix](unix.md)
 * [Research](research.md)
 
-## Places
+## places
 
 * [North America](places/north-america/README.md)
   * [Miami, Florida](places/north-america/miami-florida.md)
@@ -20,4 +19,9 @@
 * [Europe](places/europe/README.md)
   * [Madrid, Spain](places/europe/madrid-spain.md)
 * [Africa](places/africa.md)
+
+## technology
+
+* [Docker](technology/docker.md)
+* [Unix](technology/unix.md)
 
