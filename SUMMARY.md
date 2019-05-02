@@ -25,3 +25,9 @@
 * [Docker](technology/docker.md)
 * [Unix](technology/unix.md)
 
+## self
+
+* [Nutrition](self/nutrition.md)
+* [Fitness](self/fitness.md)
+* [Mind](self/mind.md)
+

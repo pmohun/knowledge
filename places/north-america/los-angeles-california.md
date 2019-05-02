@@ -1,12 +1,16 @@
 # Los Angeles, California
 
+## About
+
 ## Things to do
 
 If you can manage the traffic, Los Angeles is an incredible destination for adventure. In a single day you can hike through the canyons of Malibu, surf with the locals in Venice, and be back in time for dinner. 
 
 ### Sightsee
 
-Griffith Observatory
+#### Griffith Observatory
+
+![Photo by Annie on Unsplash](../../.gitbook/assets/griffith.jpg)
 
 Point Vincente Lighthouse
 
