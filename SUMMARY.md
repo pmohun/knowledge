@@ -24,6 +24,7 @@
 
 * [Docker](technology/docker.md)
 * [Unix](technology/unix.md)
+* [Jupyter](technology/jupyter.md)
 
 ## self
 
