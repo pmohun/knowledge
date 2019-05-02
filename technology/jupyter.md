@@ -75,7 +75,29 @@ Navigate to the repository where the notebook files live and follow the recommen
 
 > `ipython kernel install`
 
-Check `kernel.json` to confirm that the path has been updated.
+Check `kernel.json` to confirm that the path has been updated and that the path matches.
 
+To confirm that your Jupyter notebook is running the same version of python:
 
+In Jupyter notebook:
+
+```text
+import sys
+sys.executable
+'/usr/local/opt/python/bin/python3.7' # this is from kernel.json
+```
+
+In the terminal:
+
+```text
+$ python3
+import sys
+sys.executable
+'/usr/local/opt/python/bin/python3.7'
+'/Library/Frameworks/Python.framework/Versions/3.7/bin/python3'
+```
+
+Oops! If they don't match, then use the executable path from your locally installed python version to update `kernel.json`
+
+Restart the notebook to see results. 
 
