@@ -6,9 +6,9 @@
 
 ![](../.gitbook/assets/modulenotfounderror%20%281%29.png)
 
-Jupyter Notebook tends to create path issues that disagree with the python path run locally. To fix this, I use the following troubleshooting steps:
+Jupyter Notebook tends to create path issues that disagree with the python path run locally. To fix this, I use the following troubleshooting methods:
 
-#### Check Jupyter path
+#### Kernel.json
 
 In the terminal:
 
@@ -31,5 +31,51 @@ If there is disagreement between the paths \(as shown above\), you can redirect 
 ```text
 # identify where Jupyter stores kernel information
 $ jupyter kernselspec list
+Available kernels:
+  python3    /usr/local/share/jupyter/kernels/python3
 ```
+
+Navigate to the `/kernels` directory and locate `kernel.json`
+
+Inside:
+
+```text
+{
+ "argv": ["python3", 
+ "-m", 
+ "IPython.kernel",
+ "-f", 
+ "{connection_file}"],
+ "display_name": "Python 3",
+ "language": "python"
+}
+```
+
+Where it lists "python3" change it to your python path where the libraries are being installed. For example:
+
+```text
+{
+ "argv": [
+  "/usr/local/opt/python/bin/python3.7",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
+```
+
+The python3 kernel should now be pointing at the correct directory. 
+
+#### iPython Kernel Install
+
+Navigate to the repository where the notebook files live and follow the recommendation in [this issue from the Jupyter Github.](https://github.com/jupyter/notebook/issues/2563)
+
+> `ipython kernel install`
+
+Check `kernel.json` to confirm that the path has been updated.
+
+
 
