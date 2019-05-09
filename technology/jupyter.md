@@ -1,5 +1,11 @@
 # Jupyter
 
+## Useful Commands
+
+```
+!which python; python -V # check python version
+```
+
 ## Common Issues & Troubleshooting
 
 ### ModuleNotFoundError
@@ -100,4 +106,13 @@ sys.executable
 Oops! If they don't match, then use the executable path from your locally installed python version to update `kernel.json`
 
 Restart the notebook to see results. 
+
+#### Uninstall Jupyter
+
+If none of the above methods worked, try uninstalling Jupyter. 
+
+```text
+pip uninstall jupyter
+pip install jupyter
+```
 
