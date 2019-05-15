@@ -25,6 +25,8 @@
 * [Docker](technology/docker.md)
 * [Unix](technology/unix.md)
 * [Jupyter](technology/jupyter.md)
+* [Cloud](technology/cloud/README.md)
+  * [Google Cloud Platform](technology/cloud/google-cloud-platform.md)
 
 ## self
 
