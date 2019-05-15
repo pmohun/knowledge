@@ -11,6 +11,7 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Catch-22 | Joseph Heller | F | - |
 | 2019 | Art of War | Sun Tzu | P | - |
 | 2019 | Flowers for Algernon | Daniel Keyes | F | - |
 | 2019 | Turing's Cathedral | George Dyson | NF | 🧠 |

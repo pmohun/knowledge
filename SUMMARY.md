@@ -27,6 +27,7 @@
 * [Jupyter](technology/jupyter.md)
 * [Cloud](technology/cloud/README.md)
   * [Google Cloud Platform](technology/cloud/google-cloud-platform.md)
+* [Programming Languages](technology/programming-languages.md)
 
 ## self
 
