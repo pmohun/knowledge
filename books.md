@@ -11,14 +11,19 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Bad Blood | John Carreyrou | NF | - |
+| 2019 | The Dark Forest | Cixin Liu | SF | - |
+| 2019 | The Mezzanine | Nicholson Baker | NF | - |
 | 2019 | Catch-22 | Joseph Heller | F | - |
 | 2019 | Art of War | Sun Tzu | P | - |
 | 2019 | Flowers for Algernon | Daniel Keyes | F | - |
+| 2019 | Ender's Game | Orson Scott Card | SF | - |
 | 2019 | Turing's Cathedral | George Dyson | NF | 🧠 |
 | 2019 | The Everything Store | Brad Stone | B | - |
 | 2019 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 |
 | 2019 | Zero to One | Peter Thiel | M | - |
 | 2019  | Shoe Dog | Phil Knight | AB | 🌟 |
+| 2019 | Steve Jobs | Walter Isaacson | B | - |
 | 2019 | Become What You Are | Alan Watts | P | - |
 | 2019 | Can't Hurt Me | David Goggins | AB | - |
 | 2018 | Factfulness | Hans Rosling | NF | 🧠 |
@@ -29,10 +34,13 @@ description: >-
 | 2018 | The Hard Thing About Hard Things | Ben Horowitz | M | 🌟 |
 | 2018 | Machine Learning | Hugh Howey | SF | - |
 | 2018 | Stories of Your Life and Others | Ted Chiang | SF | - |
+| 2018 | The Three Body Problem | Cixin Liu | SF | - |
 | 2017 | Hyperion Cantos | Dan Simmons | SF | 🌟 |
+| 2017 | Elon Musk | Ashlee Vance | B | - |
 | 2017 | Saturn Run | John Sandford | SF | - |
 | 2017 | Trilogy War Stories | Ken Follett | F | - |
 | 2017 | Hitchhiker's Guide to the Galaxy | Douglas Adams | F | 🌟 |
+| 2017 | Yeager | Chuck Yeager | AB | - |
 | 2017 | The Dark Tower Series | Stephen King | F, H | - |
 | 2017 | Salem's Lot | Stephen King | H | - |
 | 2016 | Brave New World | Aldous Huxley | F | - |
