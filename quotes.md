@@ -36,5 +36,11 @@ _Laws to suppress tend to strengthen what they would prohibit._
 
 ## Vladamir Zworykin
 
-_One cannot stumble on an idea unless one is running._ - Turing's Cathedral p. 67
+_One cannot stumble on an idea unless one is running._ 
+
+_**Turing's Cathedral p. 67**_
+
+## Alan Watts
+
+_I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is._
 
