@@ -13,6 +13,7 @@ description: >-
 | ---: | :--- | :--- | :---: | :---: |
 | 2019 | The Secret of Apollo | Stephen Johnson | NF | - |
 | 2019 | What Do You Care What Other People Think? | Richard Fenyman | AB | - |
+| 2019 | Bitcoin Billionaires | Ben Mezrich | NF | - |
 | 2019 | Bad Blood | John Carreyrou | NF | - |
 | 2019 | The Dark Forest | Cixin Liu | SF | - |
 | 2019 | The Mezzanine | Nicholson Baker | NF | - |
