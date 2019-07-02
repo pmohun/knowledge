@@ -1,7 +1,7 @@
 ---
 description: >-
-  I enjoy reading. I keep a running list of books that I would recommend to
-  anyone. This space is used to catalog books that I have found worthwhile.
+  I keep a running list of books that I would recommend to anyone. This space is
+  used to catalog books that I currently own.
 ---
 
 # Books
