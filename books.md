@@ -10,6 +10,7 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Slapstick | Kurt Vonnegut | SF | - |
 | 2019 | The Secret of Apollo | Stephen Johnson | NF | - |
 | 2019 | What Do You Care What Other People Think? | Richard Fenyman | AB | - |
 | 2019 | Bitcoin Billionaires | Ben Mezrich | NF | - |
