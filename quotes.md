@@ -38,9 +38,11 @@ _Laws to suppress tend to strengthen what they would prohibit._
 
 _One cannot stumble on an idea unless one is running._ 
 
-_**Turing's Cathedral p. 67**_
-
 ## Alan Watts
 
 _I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is._
+
+## Kurt Vonnegut
+
+Later on in life, the Tralfamadorians would advise Billy to concentrate on the happy moments of his life, and to ignore the unhappy ones -- to stare only at pretty things as eternity failed to go by. 
 
