@@ -10,6 +10,9 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Contact | Carl Sagan | SF | - |
+| 2019 | Wise Man's Fear | Patrick Rothfuss | F | 🌟 |
+| 2019 | The Name Of The Wind | Patrick Rothfuss | F | 🌟 |
 | 2019 | Slapstick | Kurt Vonnegut | SF | - |
 | 2019 | The Secret of Apollo | Stephen Johnson | NF | - |
 | 2019 | What Do You Care What Other People Think? | Richard Fenyman | AB | - |
