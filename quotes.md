@@ -44,5 +44,9 @@ _I have realized that the past and future are real illusions, that they exist in
 
 ## Kurt Vonnegut
 
-Later on in life, the Tralfamadorians would advise Billy to concentrate on the happy moments of his life, and to ignore the unhappy ones -- to stare only at pretty things as eternity failed to go by. 
+_Later on in life, the Tralfamadorians would advise Billy to concentrate on the happy moments of his life, and to ignore the unhappy ones -- to stare only at pretty things as eternity failed to go by._ 
+
+## William Shakespeare
+
+_There is a tide in the affairs of men. Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat, And we must take the current when it serves, Or lose our ventures._
 
