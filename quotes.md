@@ -8,9 +8,9 @@ description: >-
 
 ## Stephen King
 
-_His fingers were permanently yellowed with chalk dust rather than nicotine, but it was still the residue of an addicting substance._ - Salems Lot
+_His fingers were permanently yellowed with chalk dust rather than nicotine, but it was still the residue of an addicting substance._ 
 
-_Alone. Yes, thats the key word, the most awful word in the English tongue. Murder doesn't hold a candle to it and hell is only a poor synonym...._ - Salems Lot
+_Alone. Yes, thats the key word, the most awful word in the English tongue. Murder doesn't hold a candle to it and hell is only a poor synonym._
 
 ## Frank Herbert
 
