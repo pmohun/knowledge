@@ -10,6 +10,9 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Cat's Cradle | Kurt Vonnegut | F | - |
+| 2019 | Hard Drive: Bill Gates and the Making of Microsoft | James Wallace | B | - |
+| 2019 | Hackers and Painters | Paul Graham | NF | 🌟 |
 | 2019 | Contact | Carl Sagan | SF | - |
 | 2019 | Wise Man's Fear | Patrick Rothfuss | F | 🌟 |
 | 2019 | The Name Of The Wind | Patrick Rothfuss | F | 🌟 |
