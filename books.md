@@ -54,6 +54,7 @@ description: >-
 | 2017 | The Dark Tower Series | Stephen King | F, H | - |
 | 2017 | Salem's Lot | Stephen King | H | - |
 | 2016 | Brave New World | Aldous Huxley | F | - |
+| 2016 | American Psycho | Bret Easton Ellis | F | - |
 | - | Fahreinheit 451 | Ray Bradbury | F | - |
 | - | 1984 | George Orwell | F | - |
 | - | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
