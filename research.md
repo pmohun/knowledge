@@ -16,6 +16,7 @@ description: >-
 
 | Topic | Year | Title | Author | Source |
 | :--- | ---: | :--- | :--- | :--- |
+| Oceanic Engineering | 2011 | Establishing offshore autonomous communities: current choices and their proposed evolution | D. Miguel Lamas Pardo | [Link](http://seasteadingorg.wpengine.com/wp-content/uploads/2015/12/Miguel-Lamas-Establishment-of-Autonomous-Ocean-Communities-English.pdf) |
 | Neuroscience | 2015 | Using space and time to encode vibrotactile information | Eagleman | [Link](https://link.springer.com/article/10.1007%2Fs00221-015-4346-1) |
 | Blockchain | 2014 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Buterin | [Link](https://github.com/ethereum/wiki/wiki/White-Paper#alternative-blockchain-applications) |
 | Blockchain | 2008 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto | [Link](https://bitcoin.org/bitcoin.pdf?) |
