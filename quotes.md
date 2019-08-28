@@ -50,3 +50,17 @@ _Later on in life, the Tralfamadorians would advise Billy to concentrate on the 
 
 _There is a tide in the affairs of men. Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat, And we must take the current when it serves, Or lose our ventures._
 
+## Marcus Aurelius
+
+_If you are pained by any external thing, it is not this thing that disturbs you, but your own judgement about it. And it is in your power to wipe out this judgement now._ 
+
+_We don't get to choose what happens to us, but we can always choose how we feel about it. And why on earth would you choose to feel anything but good?_
+
+## Seneca
+
+_It is a rough road that leads to the heights of greatness._ 
+
+_What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed, Whatever years be behind us are in death's hands._
+
+_We suffer more often in imagination than in reality._
+
