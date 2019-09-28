@@ -76,7 +76,7 @@ description: >-
 | - | The Chronicles of Narnia | CS Lewis | F, YA | 🌟 |
 | - | The Merlin Conspiracy | Diana W. Jones | F, YA | - |
 | - | The Lord of the Rings | JRR Tolkein | F | - |
-| - | Game of Thrones | George RR Martin | F | - |
+| - | A Song Of Ice And Fire | George RR Martin | F | - |
 | - | Harry Potter | JK Rowling | F, YA | - |
 | - | Pebble in the Sky | Isaac Asimov | SF | - |
 | - | The Stars, Like Dust | Isaac Asimov | SF | - |
