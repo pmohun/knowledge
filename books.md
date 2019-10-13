@@ -10,6 +10,7 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | The Stand | Stephen King | F | - |
 | 2019 | On Writing | Stephen King | AB | 🌟 |
 | 2019 | Barbarian Days: A Surfing Life | William Finnegan | AB | 🌟 |
 | 2019 | Cat's Cradle | Kurt Vonnegut | F | - |
