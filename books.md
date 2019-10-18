@@ -99,3 +99,5 @@ description: >-
 
 **\[M\]** Management \| **\[AB\]** Autobiography \| **\[YA\]** Young Adult \| **\[H\]** Horror
 
+\*I started this list in 2019, so there are plenty of omissions prior to that. I've included most of favorites. 
+
