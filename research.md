@@ -16,6 +16,7 @@ description: >-
 
 | Topic | Year | Title | Author | Source |
 | :--- | ---: | :--- | :--- | :--- |
+| Cryptography | 1976 | New Directions In Cryptography | Diffie & Hellman | [Link](https://ee.stanford.edu/~hellman/publications/24.pdf) |
 | Synthetic Biology | 2019 | Technological challenges and milestones for writing genomes | Nili Ostrov | [Link](https://sci-hub.tw/downloads/2019-10-17/86/10.1126@science.aay0339.pdf) |
 | Oceanic Engineering | 2011 | Establishing offshore autonomous communities: current choices and their proposed evolution | D. Miguel Lamas Pardo | [Link](http://seasteadingorg.wpengine.com/wp-content/uploads/2015/12/Miguel-Lamas-Establishment-of-Autonomous-Ocean-Communities-English.pdf) |
 | Neuroscience | 2015 | Using space and time to encode vibrotactile information | Eagleman | [Link](https://link.springer.com/article/10.1007%2Fs00221-015-4346-1) |
