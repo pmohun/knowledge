@@ -1,7 +1,7 @@
 ---
 description: >-
-  I keep a running list of books that I would recommend to anyone. This space is
-  used to catalog books that I currently own.
+  This space is used to catalog books that I currently own. The legend helps to
+  highlight books that stood out to me.
 ---
 
 # Books
@@ -10,6 +10,11 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Managing Yourself | Clayton M. Christensen | NF | - |
+| 2019 | Thinking, Fast & Slow | Daniel Kahneman | NF | - |
+| 2019 | Seasteading | Joe Quirk | NF | 🧠 |
+| 2019 | Principles | Ray Dalio | NF | 🌟 |
+| 2019 | What You Do Is Who You Are | Ben Horowitz | NF | 🌟 |
 | 2019 | High Output Management | Andy Grove | NF | - |
 | 2019 | The Stand | Stephen King | F | - |
 | 2019 | On Writing | Stephen King | AB | 🌟 |
@@ -17,7 +22,7 @@ description: >-
 | 2019 | Cat's Cradle | Kurt Vonnegut | F | - |
 | 2019 | Hard Drive: Bill Gates and the Making of Microsoft | James Wallace | B | - |
 | 2019 | Hackers and Painters | Paul Graham | NF | 🌟 |
-| 2019 | Contact | Carl Sagan | SF | - |
+| 2019 | Contact | Carl Sagan | SF | 🧠 |
 | 2019 | Wise Man's Fear | Patrick Rothfuss | F | 🌟 |
 | 2019 | The Name Of The Wind | Patrick Rothfuss | F | 🌟 |
 | 2019 | Slaughterhouse Five | Kurt Vonnegut | F | - |
