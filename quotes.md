@@ -12,6 +12,10 @@ _If you are pained by any external thing, it is not this thing that disturbs you
 
 _We don't get to choose what happens to us, but we can always choose how we feel about it. And why on earth would you choose to feel anything but good?_
 
+## Benjamin Franklin
+
+_Great affairs sometimes take their rise from small circumstances._
+
 ## Seneca
 
 _It is a rough road that leads to the heights of greatness._ 
