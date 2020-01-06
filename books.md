@@ -4,7 +4,7 @@ description: >-
   highlight books that stood out to me.
 ---
 
-# Books
+# Bookshelf
 
 ## Catalog
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Start here!](README.md)
-* [Books](books.md)
+* [Bookshelf](books.md)
 * [Quotes](quotes.md)
 * [Research](research.md)
 
