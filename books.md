@@ -10,9 +10,10 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2019 | Benjamin Franklin: An American Life | Walter Isaacson | B | - |
 | 2019 | Managing Yourself | Clayton M. Christensen | NF | - |
 | 2019 | Thinking, Fast & Slow | Daniel Kahneman | NF | - |
-| 2019 | Seasteading | Joe Quirk | NF | 🧠 |
+| 2019 | Seasteading | Joe Quirk | NF | - |
 | 2019 | Principles | Ray Dalio | NF | 🌟 |
 | 2019 | What You Do Is Who You Are | Ben Horowitz | NF | 🌟 |
 | 2019 | High Output Management | Andy Grove | NF | - |
