@@ -10,6 +10,7 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2020 | Albert Einstein: His Life and Universe | Water Isaacson | B | - |
 | 2019 | Benjamin Franklin: An American Life | Walter Isaacson | B | - |
 | 2019 | Managing Yourself | Clayton M. Christensen | NF | - |
 | 2019 | Thinking, Fast & Slow | Daniel Kahneman | NF | - |
