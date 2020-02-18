@@ -10,6 +10,8 @@ description: >-
 
 | Read | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
+| 2020 | Fall of Hyperion | Dan Simmons | SF | - |
+| 2020 | Moby Dick or, The Whale | Herman  Melville | F | - |
 | 2020 | Albert Einstein: His Life and Universe | Water Isaacson | B | - |
 | 2019 | Benjamin Franklin: An American Life | Walter Isaacson | B | - |
 | 2019 | Managing Yourself | Clayton M. Christensen | NF | - |
