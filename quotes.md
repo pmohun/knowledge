@@ -68,5 +68,27 @@ _Later on in life, the Tralfamadorians would advise Billy to concentrate on the 
 
 _There is a tide in the affairs of men. Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat, And we must take the current when it serves, Or lose our ventures._
 
-## 
+## Fernando Pessoa
+
+_“There are ships sailing to many ports, but not a single one goes where life is not painful.”_
+
+_In these random impressions, and with no desire to be other than randon, I differently narrate my factless autobiography, my lifeless history. These are my Confessions, and if in them I say nothing, it's because I have nothing to say._
+
+_Could it think, the heart would stop beating."_
+
+_I have to choose what I detest - either dreaming which my intelligence hates, or action, which my sensibility loathes; either action, for which I wasn't born, or dreaming, for which no one was born. Detesting both, I choose neither; but since I must on occasion either dream or act, I mix the two things together._
+
+_Literature – which is art married to thought, and realization untainted by reality – seems to me the end towards which all human effort would have to strive, if it were truly human and not just a welling up of our animal self. To express something is to conserve its virtue and take away its terror. Fields are greener in their description than in their actual greenness. Flowers, if described with phrases that define them in the air of the imagination, will have colours with a durability not found in cellular life._
+
+_Whenever I see a dead body, death seems to me a departure. The corpse looks to me like a suit that was left behind. Someone went away and didn't need to take the one and only outfit he'd worn._
+
+_Every dream is the same dream, for they're all dreams._
+
+_I weep over my imperfect pages, but if future generations read them, they will be more touched by my weeping than by any perfection I might have achieved, since perfection would have kept me from weeping and, therefore,  from writing._
+
+_The saint weeps, and is human. God is silent. That is why we can love the saint but cannot love God._
+
+_A sunset is an intellectual phenomenon._
+
+_There's a thin sheet of glass between me and life. However clearly I see and understand life, I can't touch it._
 
