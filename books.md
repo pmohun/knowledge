@@ -1,7 +1,8 @@
 ---
 description: >-
   This space is used to catalog books that I currently own. The legend helps to
-  highlight books that stood out to me.
+  highlight books that stood out. I keep track of my age when I read books,
+  since books affect me differently at times.
 ---
 
 # Bookshelf
