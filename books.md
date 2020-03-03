@@ -8,76 +8,77 @@ description: >-
 
 ## Catalog
 
-| Read | Title | Author | Category | Legend |
+| Age | Title | Author | Category | Legend |
 | ---: | :--- | :--- | :---: | :---: |
-| 2020 | Fall of Hyperion | Dan Simmons | SF | - |
-| 2020 | Moby Dick or, The Whale | Herman  Melville | F | - |
-| 2020 | Albert Einstein: His Life and Universe | Water Isaacson | B | - |
-| 2019 | Benjamin Franklin: An American Life | Walter Isaacson | B | - |
-| 2019 | Managing Yourself | Clayton M. Christensen | NF | - |
-| 2019 | Thinking, Fast & Slow | Daniel Kahneman | NF | - |
-| 2019 | Seasteading | Joe Quirk | NF | - |
-| 2019 | Principles | Ray Dalio | NF | 🌟 |
-| 2019 | What You Do Is Who You Are | Ben Horowitz | NF | 🌟 |
-| 2019 | High Output Management | Andy Grove | NF | - |
-| 2019 | The Stand | Stephen King | F | - |
-| 2019 | On Writing | Stephen King | AB | 🌟 |
-| 2019 | Barbarian Days: A Surfing Life | William Finnegan | AB | 🌟 |
-| 2019 | Cat's Cradle | Kurt Vonnegut | F | - |
-| 2019 | Hard Drive: Bill Gates and the Making of Microsoft | James Wallace | B | - |
-| 2019 | Hackers and Painters | Paul Graham | NF | 🌟 |
-| 2019 | Contact | Carl Sagan | SF | 🧠 |
-| 2019 | Wise Man's Fear | Patrick Rothfuss | F | 🌟 |
-| 2019 | The Name Of The Wind | Patrick Rothfuss | F | 🌟 |
-| 2019 | Slaughterhouse Five | Kurt Vonnegut | F | - |
-| 2019 | Slapstick | Kurt Vonnegut | SF | - |
-| 2019 | The Secret of Apollo | Stephen Johnson | NF | - |
-| 2019 | What Do You Care What Other People Think? | Richard Fenyman | AB | - |
-| 2019 | Bitcoin Billionaires | Ben Mezrich | NF | - |
-| 2019 | Bad Blood | John Carreyrou | NF | - |
-| 2019 | The Dark Forest | Cixin Liu | SF | - |
-| 2019 | The Mezzanine | Nicholson Baker | NF | - |
-| 2019 | Catch-22 | Joseph Heller | F | - |
-| 2019 | Art of War | Sun Tzu | P | - |
-| 2019 | Flowers for Algernon | Daniel Keyes | F | - |
-| 2019 | Ender's Game | Orson Scott Card | SF | - |
-| 2019 | Turing's Cathedral | George Dyson | NF | 🧠 |
-| 2019 | The Everything Store | Brad Stone | B | - |
-| 2019 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 |
-| 2019 | Zero to One | Peter Thiel | M | - |
-| 2019  | Shoe Dog | Phil Knight | AB | 🌟 |
-| 2019 | Steve Jobs | Walter Isaacson | B | - |
-| 2019 | Become What You Are | Alan Watts | P | - |
-| 2019 | Can't Hurt Me | David Goggins | AB | - |
-| 2018 | Factfulness | Hans Rosling | NF | 🧠 |
-| 2018 | Becoming | Michelle Obama | B | - |
-| 2018 | Sapiens: A Brief History of Human Kind | Yuval Noah Harari | NF | 🧠 |
-| 2018 | The Collapsing Empire | John Scalzi | SF | - |
-| 2018 | The Last Lecture | Randy Pausch | AB | - |
-| 2018 | The Hard Thing About Hard Things | Ben Horowitz | M | 🌟 |
-| 2018 | Machine Learning | Hugh Howey | SF | - |
-| 2018 | Stories of Your Life and Others | Ted Chiang | SF | - |
-| 2018 | The Three Body Problem | Cixin Liu | SF | - |
-| 2017 | Hyperion Cantos | Dan Simmons | SF | 🌟 |
-| 2017 | Elon Musk | Ashlee Vance | B | - |
-| 2017 | Saturn Run | John Sandford | SF | - |
-| 2017 | Trilogy War Stories | Ken Follett | F | - |
-| 2017 | Hitchhiker's Guide to the Galaxy | Douglas Adams | F | 🌟 |
-| 2017 | Yeager | Chuck Yeager | AB | - |
-| 2017 | The Dark Tower Series | Stephen King | F, H | - |
-| 2017 | Salem's Lot | Stephen King | H | - |
-| 2016 | Brave New World | Aldous Huxley | F | - |
-| 2016 | American Psycho | Bret Easton Ellis | F | - |
-| - | Fahreinheit 451 | Ray Bradbury | F | - |
-| - | 1984 | George Orwell | F | - |
-| - | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
-| - | Foundation Series | Isaac Asimov | SF | 🌟 |
-| - | Robot Series | Isaac Asimov | SF | - |
-| - | Dune | Frank Herbert | SF | 🌟 |
-| - | His Dark Materials Series | Philip Pullman | F, YA | 🌟 |
-| - | Artemis Fowl Series | Eoin Colfer | F, YA | - |
-| - | The Keys to the Kingdom Series | Garth Nix | F, YA | - |
-| - | The Great Tree of Avalon | TA Barron | F, YA | - |
+| 25 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 |
+| 20,25 | Fall of Hyperion | Dan Simmons | SF | - |
+| 25 | Moby Dick or, The Whale | Herman  Melville | F | - |
+| 25 | Albert Einstein: His Life and Universe | Water Isaacson | B | - |
+| 25 | Benjamin Franklin: An American Life | Walter Isaacson | B | - |
+| 25 | Managing Yourself | Clayton M. Christensen | NF | - |
+| 25 | Thinking, Fast & Slow | Daniel Kahneman | NF | - |
+| 25 | Seasteading | Joe Quirk | NF | - |
+| 25 | Principles | Ray Dalio | NF | 🌟 |
+| 25 | What You Do Is Who You Are | Ben Horowitz | NF | - |
+| 25 | High Output Management | Andy Grove | NF | - |
+| 25 | The Stand | Stephen King | F | - |
+| 25 | On Writing | Stephen King | AB | 🌟 |
+| 25 | Barbarian Days: A Surfing Life | William Finnegan | AB | 🌟 |
+| 25 | Cat's Cradle | Kurt Vonnegut | F | - |
+| 25 | Hard Drive: Bill Gates and the Making of Microsoft | James Wallace | B | - |
+| 25 | Hackers and Painters | Paul Graham | NF | 🌟 |
+| 16,25 | Contact | Carl Sagan | SF | 🧠 |
+| 25 | Wise Man's Fear | Patrick Rothfuss | F | 🌟 |
+| 25 | The Name Of The Wind | Patrick Rothfuss | F | 🌟 |
+| 25 | Slaughterhouse Five | Kurt Vonnegut | F | - |
+| 25 | Slapstick | Kurt Vonnegut | SF | - |
+| 25 | The Secret of Apollo | Stephen Johnson | NF | - |
+| 24 | What Do You Care What Other People Think? | Richard Fenyman | AB | - |
+| 24 | Bitcoin Billionaires | Ben Mezrich | NF | - |
+| 24 | Bad Blood | John Carreyrou | NF | - |
+| 24 | The Dark Forest | Cixin Liu | SF | - |
+| 24 | The Mezzanine | Nicholson Baker | NF | - |
+| 16,24 | Catch-22 | Joseph Heller | F | - |
+| 24 | Art of War | Sun Tzu | P | - |
+| 16,24 | Flowers for Algernon | Daniel Keyes | F | - |
+| 24 | Ender's Game | Orson Scott Card | SF | - |
+| 24 | Turing's Cathedral | George Dyson | NF | 🧠 |
+| 24 | The Everything Store | Brad Stone | B | - |
+| 24 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 |
+| 24 | Zero to One | Peter Thiel | M | - |
+| 24 | Shoe Dog | Phil Knight | AB | 🌟 |
+| 24 | Steve Jobs | Walter Isaacson | B | - |
+| 24 | Become What You Are | Alan Watts | P | - |
+| 24 | Can't Hurt Me | David Goggins | AB | - |
+| 24 | Factfulness | Hans Rosling | NF | 🧠 |
+| 24 | Becoming | Michelle Obama | B | - |
+| 24 | Sapiens: A Brief History of Human Kind | Yuval Noah Harari | NF | 🧠 |
+| 24 | The Collapsing Empire | John Scalzi | SF | - |
+| 24 | The Last Lecture | Randy Pausch | AB | - |
+| 24 | The Hard Thing About Hard Things | Ben Horowitz | M | 🌟 |
+| 23 | Machine Learning | Hugh Howey | SF | - |
+| 23 | Stories of Your Life and Others | Ted Chiang | SF | - |
+| 23 | The Three Body Problem | Cixin Liu | SF | - |
+| 20,23 | Hyperion Cantos | Dan Simmons | SF | 🌟 |
+| 23,25 | Elon Musk | Ashlee Vance | B | - |
+| 23,24 | Saturn Run | John Sandford | SF | - |
+| 23 | Trilogy War Stories | Ken Follett | F | - |
+| 23 | Hitchhiker's Guide to the Galaxy | Douglas Adams | F | 🌟 |
+| 23 | Yeager | Chuck Yeager | AB | - |
+| 23 | The Dark Tower Series | Stephen King | F, H | - |
+| 23 | Salem's Lot | Stephen King | H | - |
+| 22 | Brave New World | Aldous Huxley | F | - |
+| 21 | American Psycho | Bret Easton Ellis | F | - |
+| 16,24 | Fahreinheit 451 | Ray Bradbury | F | - |
+| 16,23 | 1984 | George Orwell | F | - |
+| 18 | Do Android's Dream of Electric Sheep | Phillip Dick | SF | - |
+| 19,20,21,22,23,24,25 | Foundation Series | Isaac Asimov | SF | 🌟 |
+| 19 | Robot Series | Isaac Asimov | SF | - |
+| 20,21,22,23,24,25 | Dune | Frank Herbert | SF | 🌟 |
+| 13 | His Dark Materials Series | Philip Pullman | F, YA | 🌟 |
+| 13 | Artemis Fowl Series | Eoin Colfer | F, YA | - |
+| 14 | The Keys to the Kingdom Series | Garth Nix | F, YA | - |
+| 14 | The Great Tree of Avalon | TA Barron | F, YA | - |
 | - | The Hunger Games | Suzanne Collins | F, YA | - |
 | - | The Heir Chronicles | Cinda W. Chima | F, YA | - |
 | - | The Merlin Saga | TA Barron | F, YA | - |
