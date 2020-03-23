@@ -4,5 +4,4 @@
 * [Bookshelf](books.md)
 * [Quotes](quotes.md)
 * [Research](research.md)
-* [Curriculum](curriculum.md)
 
