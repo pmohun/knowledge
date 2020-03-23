@@ -11,6 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
 | Fall of Hyperion | Dan Simmons | SF | - | 20,25 |
 | Moby Dick or, The Whale | Herman  Melville | F | - | 25 |
