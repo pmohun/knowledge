@@ -11,6 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
 | Fall of Hyperion | Dan Simmons | SF | - | 20,25 |
