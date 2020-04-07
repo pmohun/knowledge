@@ -11,6 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| How To Read A Book | Mortimer Adler | NF | - | 25 |
 | On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
