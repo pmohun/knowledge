@@ -11,7 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
-| The Fountainhead | Ayn Rand | F | - | 25 |
+| The Fountainhead | Ayn Rand | F | 🌟 | 25 |
 | On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
