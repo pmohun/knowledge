@@ -11,7 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
-| How To Read A Book | Mortimer Adler | NF | - | 25 |
+| The Fountainhead | Ayn Rand | F | - | 25 |
 | On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
 | The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
@@ -19,6 +19,7 @@ description: >-
 | Moby Dick or, The Whale | Herman  Melville | F | - | 25 |
 | Albert Einstein: His Life and Universe | Water Isaacson | B | - | 25 |
 | Benjamin Franklin: An American Life | Walter Isaacson | B | - | 25 |
+| How To Read A Book | Mortimer Adler | NF | - | 25 |
 | Managing Yourself | Clayton M. Christensen | NF | - | 25 |
 | Thinking, Fast & Slow | Daniel Kahneman | NF | - | 25 |
 | Seasteading | Joe Quirk | NF | - | 25 |
