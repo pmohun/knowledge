@@ -11,6 +11,12 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| The Art of Doing Science and Engineering | Richard Hamming | NF | 🧠 | 25 |
+| Liar's Poker | Michael Lewis | NF | - | 25 |
+| The Making of Prince of Persia | Jordan Mechner | NF | 🌟 | 25 |
+| Zen and the Art of Motorcycle Maintenance | Robert Pirsig | NF | - | 25 |
+| Me Talk Pretty One Day | David Sedaris | NF | - | 25 |
+| Atlas Shrugged | Ayn Rand | F | - | 25 |
 | The Fountainhead | Ayn Rand | F | 🌟 | 25 |
 | On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
