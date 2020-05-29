@@ -11,7 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
-| The Art of Doing Science and Engineering | Richard Hamming | NF | 🧠 | 25 |
+| [The Art of Doing Science and Engineering](https://roamresearch.com/#/app/philmohun/page/nYlgWL990) | Richard Hamming | NF | 🧠 | 25 |
 | Liar's Poker | Michael Lewis | NF | - | 25 |
 | The Making of Prince of Persia | Jordan Mechner | NF | 🌟 | 25 |
 | Zen and the Art of Motorcycle Maintenance | Robert Pirsig | NF | - | 25 |
@@ -114,6 +114,8 @@ description: >-
 🌟Highly recommend
 
 🧠Thought provoking
+
+Hyperlinks link to book reviews or summaries.
 
 **Category**
 
