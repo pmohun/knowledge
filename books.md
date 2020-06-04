@@ -11,6 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| The  Four Hour Work Week | Tim Ferriss | NF | - | 25 |
 | [The Art of Doing Science and Engineering](https://roamresearch.com/#/app/philmohun/page/nYlgWL990) | Richard Hamming | NF | 🧠 | 25 |
 | Liar's Poker | Michael Lewis | NF | - | 25 |
 | The Making of Prince of Persia | Jordan Mechner | NF | 🌟 | 25 |
