@@ -11,6 +11,9 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Chaos Monkeys | Antonio García Martínez | NF | - | 26 |
+| Mankind in Amnesia | Immanuel Velikovsky | NF | 🧠 | 26 |
+| The Lives of The Artists | Giorgio Vassari | NF | - | 26 |
 | The  Four Hour Work Week | Tim Ferriss | NF | - | 25 |
 | [The Art of Doing Science and Engineering](https://roamresearch.com/#/app/philmohun/page/nYlgWL990) | Richard Hamming | NF | 🧠 | 25 |
 | Liar's Poker | Michael Lewis | NF | - | 25 |
