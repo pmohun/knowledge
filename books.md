@@ -18,7 +18,8 @@ description: >-
 | [The Art of Doing Science and Engineering](https://roamresearch.com/#/app/philmohun/page/nYlgWL990) | Richard Hamming | NF | 🧠 | 25 |
 | Liar's Poker | Michael Lewis | NF | - | 25 |
 | The Making of Prince of Persia | Jordan Mechner | NF | 🌟 | 25 |
-| Zen and the Art of Motorcycle Maintenance | Robert Pirsig | NF | - | 25 |
+| Zen and the Art of Motorcycle Maintenance | Robert Pirsig | NF | 🧠 | 25, 26 |
+| Model Thinker | Scott Page | NF | - | 25 |
 | Me Talk Pretty One Day | David Sedaris | NF | - | 25 |
 | Atlas Shrugged | Ayn Rand | F | - | 25 |
 | The Fountainhead | Ayn Rand | F | 🌟 | 25 |
