@@ -11,6 +11,7 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| On Writing Well | William Zinsser | NF | - | 25 |
 | Chaos Monkeys | Antonio García Martínez | NF | - | 26 |
 | Mankind in Amnesia | Immanuel Velikovsky | NF | 🧠 | 26 |
 | The Lives of The Artists | Giorgio Vassari | NF | - | 26 |
