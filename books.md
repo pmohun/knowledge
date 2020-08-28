@@ -11,6 +11,9 @@ description: >-
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Working in Public | Nadia Eghbal | NF | - | 26 |
+| Marching Powder | Thomas McFadden | NF | - | 26 |
+| Lila | Robert Pirsig | NF | - | 26 |
 | On Writing Well | William Zinsser | NF | - | 25 |
 | Chaos Monkeys | Antonio García Martínez | NF | - | 26 |
 | Mankind in Amnesia | Immanuel Velikovsky | NF | 🧠 | 26 |
