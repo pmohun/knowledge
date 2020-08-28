@@ -9,6 +9,8 @@ description: >-
 
 ## Catalog
 
+Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref_=wl_share)
+
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
 | Working in Public | Nadia Eghbal | NF | - | 26 |
