@@ -13,12 +13,17 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Thus Spoke Zarathustra | Friedrich Nietzsche | NF | - | 26 |
+| Stubborn Attachments | Tyler Cowen | NF | - | 26 |
+| American Sketches | Walter Isaacson | NF | - | 26 |
+| Antifragile | Nassim Taleb | NF | 🌟 | 26 |
+| Innovators | Walter Isaacson | NF | - | 26 |
 | Working in Public | Nadia Eghbal | NF | - | 26 |
 | Marching Powder | Thomas McFadden | NF | - | 26 |
 | Lila | Robert Pirsig | NF | - | 26 |
 | On Writing Well | William Zinsser | NF | - | 25 |
 | Chaos Monkeys | Antonio García Martínez | NF | - | 26 |
-| Mankind in Amnesia | Immanuel Velikovsky | NF | 🧠 | 26 |
+| Mankind in Amnesia | Immanuel Velikovsky | NF | - | 26 |
 | The Lives of The Artists | Giorgio Vassari | NF | - | 26 |
 | The  Four Hour Work Week | Tim Ferriss | NF | - | 25 |
 | [The Art of Doing Science and Engineering](https://roamresearch.com/#/app/philmohun/page/nYlgWL990) | Richard Hamming | NF | 🧠 | 25 |
