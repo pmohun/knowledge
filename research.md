@@ -7,6 +7,8 @@ description: >-
 
 # Research
 
+_Please note: most of my research has been moved to Roam Research. I'm leaving this page up for reference, but it is no longer being actively updated._ 
+
 ### Sources
 
 * [Arxiv](http://www.arxiv-sanity.com/search?q=machine+learning)
