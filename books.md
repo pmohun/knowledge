@@ -13,6 +13,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Selected Essays of E.B. White | E.B. White | NF | - | 26 |
 | Thus Spoke Zarathustra | Friedrich Nietzsche | NF | - | 26 |
 | Stubborn Attachments | Tyler Cowen | NF | - | 26 |
 | American Sketches | Walter Isaacson | NF | - | 26 |
