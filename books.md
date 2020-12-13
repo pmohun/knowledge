@@ -13,6 +13,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Rome, Inc.  | Stanley Bing | NF | - | 26 |
 | Selected Essays of E.B. White | E.B. White | NF | - | 26 |
 | Thus Spoke Zarathustra | Friedrich Nietzsche | NF | - | 26 |
 | Stubborn Attachments | Tyler Cowen | NF | - | 26 |
@@ -65,7 +66,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Bitcoin Billionaires | Ben Mezrich | NF | - | 24 |
 | Bad Blood | John Carreyrou | NF | - | 24 |
 | The Dark Forest | Cixin Liu | SF | - | 24 |
-| The Mezzanine | Nicholson Baker | NF | - | 24 |
+| The Mezzanine | Nicholson Baker | NF | ♥️ | 24 |
 | Catch-22 | Joseph Heller | F | - | 16,24 |
 | Art of War | Sun Tzu | P | - | 24 |
 | Flowers for Algernon | Daniel Keyes | F | - | 16,24 |
@@ -130,7 +131,9 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 🌟Highly recommend
 
-🧠Thought provoking
+🧠Thought-provoking
+
+♥️ Unique
 
 Hyperlinks link to book reviews or summaries.
 
