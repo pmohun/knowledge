@@ -13,6 +13,8 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Seeing Like A State | James C. Scott | NF | - | 26 |
+| Range | David Epstein | NF | - | 26 |
 | Rome, Inc.  | Stanley Bing | NF | - | 26 |
 | Selected Essays of E.B. White | E.B. White | NF | - | 26 |
 | Thus Spoke Zarathustra | Friedrich Nietzsche | NF | - | 26 |
