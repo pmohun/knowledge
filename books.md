@@ -19,7 +19,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Selected Essays of E.B. White | E.B. White | NF | - | 26 |
 | Thus Spoke Zarathustra | Friedrich Nietzsche | NF | - | 26 |
 | Stubborn Attachments | Tyler Cowen | NF | - | 26 |
-| American Sketches | Walter Isaacson | NF | - | 26 |
+| American Sketches | Walter Isaacson | B | - | 26 |
 | Antifragile | Nassim Taleb | NF | 🌟 | 26 |
 | Innovators | Walter Isaacson | NF | - | 26 |
 | Working in Public | Nadia Eghbal | NF | - | 26 |
