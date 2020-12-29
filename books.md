@@ -40,7 +40,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | The Fountainhead | Ayn Rand | F | 🌟 | 25 |
 | On The Shortness Of Life | Seneca | NF | 🌟 | 24 |
 | Leonardo Da Vinci | Walter Isaacson | B | - | 25 |
-| The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25 |
+| The Book of Disquiet | Fernando Pessoa | AB | 🌟 | 25, 26 |
 | Fall of Hyperion | Dan Simmons | SF | - | 20,25 |
 | Moby Dick or, The Whale | Herman  Melville | F | - | 25 |
 | Albert Einstein: His Life and Universe | Water Isaacson | B | - | 25 |
