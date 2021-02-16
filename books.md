@@ -13,6 +13,8 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| The Black Swan | Nassim Taleb | NF | - | 26 |
+| A Brief History of Time | Stephen Hawking | NF | - | 26 |
 | Kissinger | Walter Issacson | NF | - | 26 |
 | Exhalation | Ted Chiang | F | - | 26 |
 | Seeing Like A State | James C. Scott | NF | - | 26 |
