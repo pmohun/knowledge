@@ -13,7 +13,13 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Guns, Germs, and Steel | Jared Diamond | NF | - | 26 |
+| The Code Breaker | Walter Isaacson | NF | - | 26 |
+| A World Without Email | Cal Newport | NF | - | 26 |
+| Skin In The Game | Nassim Taleb | NF | - | 26 |
+| The New New Thing | Michael Lewis | NF | - | 26 |
 | The Black Swan | Nassim Taleb | NF | - | 26 |
+| The Fifth Season \(Trilogy\) | N. K. Jemisin | F | - | 26 |
 | [A Brief History of Time](https://sundayscaries.substack.com/p/book-review-a-brief-history-of-time) | Stephen Hawking | NF | 🧠 | 26 |
 | Kissinger | Walter Issacson | NF | - | 26 |
 | Exhalation | Ted Chiang | F | - | 26 |
