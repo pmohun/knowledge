@@ -31,6 +31,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Stubborn Attachments | Tyler Cowen | NF | - | 26 |
 | American Sketches | Walter Isaacson | B | - | 26 |
 | Antifragile | Nassim Taleb | NF | 🌟 | 26 |
+| Loonshots | Safi Bahcall | NF | - | 26 |
 | Innovators | Walter Isaacson | NF | - | 26 |
 | Working in Public | Nadia Eghbal | NF | - | 26 |
 | Marching Powder | Thomas McFadden | NF | - | 26 |
