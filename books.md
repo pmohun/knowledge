@@ -87,7 +87,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Turing's Cathedral | George Dyson | NF | 🧠 | 24 |
 | The Everything Store | Brad Stone | B | - | 24 |
 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 | 24 |
-| Zero to One | Peter Thiel | M | - | 24 |
+| Zero to One | Peter Thiel | M | - | 24,26 |
 | Shoe Dog | Phil Knight | AB | 🌟 | 24 |
 | Steve Jobs | Walter Isaacson | B | - | 24 |
 | Become What You Are | Alan Watts | P | - | 24 |
