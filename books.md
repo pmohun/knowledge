@@ -13,6 +13,10 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| The Making of Karateka | Jordan Mechner | NF | - | 25,26 |
+| A Swim In A Pond In The Rain | George Saunders | NF | - | 26 |
+| Basic Writings of Nietzsche | Friedrich Nietzsche | P | - | 26 |
+| Finite and Infinite Games | James P. Carse | P | - | 26 |
 | Guns, Germs, and Steel | Jared Diamond | NF | - | 26 |
 | The Code Breaker | Walter Isaacson | NF | - | 26 |
 | A World Without Email | Cal Newport | NF | - | 26 |
