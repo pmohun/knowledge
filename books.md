@@ -13,6 +13,13 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Skunk Works | Ben Rich | M | ⭐️ | 27 |
+| The Score Takes Care of Itself | Bill Walsh | M | - | 27 |
+| Invent & Wander | Jeff Bezos | M | - | 27 |
+| Animal Farm | George Orwell | F | - | 27 |
+| Einstein's Dreams | Alan Lightman | NF | - | 27 |
+| Where the Crawdads Sing | Delia Owens | F | - | 26 |
+| The Big Short | Michael Lewis | NF | - | 26 |
 | The Making of Karateka | Jordan Mechner | NF | - | 25,26 |
 | A Swim In A Pond In The Rain | George Saunders | NF | - | 26 |
 | Basic Writings of Nietzsche | Friedrich Nietzsche | P | - | 26 |
@@ -64,7 +71,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Managing Yourself | Clayton M. Christensen | NF | - | 25 |
 | Thinking, Fast & Slow | Daniel Kahneman | NF | - | 25 |
 | Seasteading | Joe Quirk | NF | - | 25 |
-| Principles | Ray Dalio | NF | 🌟 | 25 |
+| Principles | Ray Dalio | NF | 🌟 | 25, 27 |
 | What You Do Is Who You Are | Ben Horowitz | NF | - | 25 |
 | High Output Management | Andy Grove | NF | - | 25 |
 | The Stand | Stephen King | F | - | 25 |
@@ -91,7 +98,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Turing's Cathedral | George Dyson | NF | 🧠 | 24 |
 | The Everything Store | Brad Stone | B | - | 24 |
 | Surely You're Joking, Mr. Fenyman | Richard Fenyman | B | 🌟 | 24 |
-| Zero to One | Peter Thiel | M | - | 24,26 |
+| Zero to One | Peter Thiel | M | - | 24,26,27 |
 | Shoe Dog | Phil Knight | AB | 🌟 | 24 |
 | Steve Jobs | Walter Isaacson | B | - | 24 |
 | Become What You Are | Alan Watts | P | - | 24 |
