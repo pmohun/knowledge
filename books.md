@@ -13,6 +13,11 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title | Author | Category | Legend | Age |
 | :--- | :--- | :---: | :---: | :--- |
+| Revolution in the Valley | Andy Hertzfeld | NF | - | 27 |
+| The Mind Body Problem | Rebecca Goldstein | F | - | 27 |
+| How Asia Works | Joe Studwell | NF | - | 27 |
+| Greenlights | Matthew McConaughey | NF | - | 27 |
+| The Dispossessed | Ursula K. Le Guin | F | - | 27 |
 | Skunk Works | Ben Rich | M | ⭐️ | 27 |
 | The Score Takes Care of Itself | Bill Walsh | M | - | 27 |
 | Invent & Wander | Jeff Bezos | M | - | 27 |
@@ -73,7 +78,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | Seasteading | Joe Quirk | NF | - | 25 |
 | Principles | Ray Dalio | NF | 🌟 | 25, 27 |
 | What You Do Is Who You Are | Ben Horowitz | NF | - | 25 |
-| High Output Management | Andy Grove | NF | - | 25 |
+| High Output Management | Andy Grove | NF | - | 25, 27 |
 | The Stand | Stephen King | F | - | 25 |
 | On Writing | Stephen King | AB | 🌟 | 25 |
 | Barbarian Days: A Surfing Life | William Finnegan | AB | 🌟 | 25 |
