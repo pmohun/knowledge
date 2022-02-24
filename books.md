@@ -13,7 +13,16 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title                                                                                               | Author                  | Category | Legend | Age                  |
 | --------------------------------------------------------------------------------------------------- | ----------------------- | :------: | :----: | -------------------- |
-| A Short History Of Nearly Everything                                                                | Bill Bryson             |    NF    |    -   |                      |
+| How To Actually Change Your Mind                                                                    | Eliezer Yudkowsky       |    NF    |    -   | 27                   |
+| The World of Yesterday                                                                              | Stefan Zweig            |    NF    |    -   | 27                   |
+| High Growth Handbook                                                                                | Elad Gil                |    NF    |   ⭐️   | 27                   |
+| The Big Score                                                                                       | Michael S. Malone       |    NF    |    -   | 27                   |
+| Infamous Scribblers                                                                                 | Eric Burns              |    NF    |    -   | 27                   |
+| The Craft                                                                                           | John Dickie             |    NF    |    -   | 27                   |
+| Princples for Dealing with the Changing World Order                                                 | Ray Dalio               |    NF    |    -   | 27                   |
+| Albion's Seed                                                                                       | David Hackett Fischer   |    NF    |    -   | 27                   |
+| When Money Dies                                                                                     | Adam Fergusson          |    NF    |    -   | 27                   |
+| A Short History Of Nearly Everything                                                                | Bill Bryson             |    NF    |    -   | 27                   |
 | Essays After Eighty                                                                                 | Donald Hall             |    NF    |    -   | 27                   |
 | Revolution in the Valley                                                                            | Andy Hertzfeld          |    NF    |    -   | 27                   |
 | The Mind Body Problem                                                                               | Rebecca Goldstein       |     F    |    -   | 27                   |
@@ -170,8 +179,8 @@ Hyperlinks link to book reviews or summaries.
 
 **Category**
 
-**\[SF] **Science Fiction | **\[B] **Biography | **\[NF] **Non-Fiction | **\[F] **Fiction | **\[P] **Philosophy
+**\[SF]** Science Fiction | **\[B]** Biography | **\[NF]** Non-Fiction | **\[F]** Fiction | **\[P]** Philosophy
 
-**\[M] **Management | **\[AB] **Autobiography | **\[YA] **Young Adult | **\[H] **Horror
+**\[M]** Management | **\[AB]** Autobiography | **\[YA]** Young Adult | **\[H]** Horror
 
 \*I started this list in 2019, so there are plenty of omissions prior to that. I've included most of favorites.&#x20;
