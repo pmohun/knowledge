@@ -14,6 +14,7 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 | The Bed of Procrustes                                                                               | Nassim Nicolas Taleb    |   NF  |  -  | 28                   |
 | --------------------------------------------------------------------------------------------------- | ----------------------- | :---: | :-: | -------------------- |
 | The Founders                                                                                        | Jimmy Soni              |   NF  |  -  | 28                   |
+| Autobiography                                                                                       | John Stuart Mill        |   NF  |  -  | 27                   |
 | Pieces of the Action                                                                                | Vannevar Bush           |   NF  |  -  | 27                   |
 | The Design of Everyday Things                                                                       | Don Norman              |   NF  |  -  | 27                   |
 | An Elegant Puzzle                                                                                   | Will Larson             |   NF  |  -  | 27                   |
