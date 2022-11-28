@@ -13,7 +13,11 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | How The Internet Happened                                                                           | Brian McCullough        |   NF  |  -  | 28                   |
 | --------------------------------------------------------------------------------------------------- | ----------------------- | :---: | :-: | -------------------- |
+| Adventures of a Young Naturalist                                                                    | David Attenborough      |   NF  |  -  | 28                   |
+| The Diversity Myth                                                                                  | Peter Thiel             |   NF  |  -  | 28                   |
+| The Obstacle is the Way                                                                             | Ryan Holiday            |   NF  |  -  | 28                   |
 | The Bed of Procrustes                                                                               | Nassim Nicolas Taleb    |   NF  |  -  | 28                   |
+| 1776                                                                                                | David McCullough        |   NF  |  -  | 28                   |
 | The Founders                                                                                        | Jimmy Soni              |   NF  |  -  | 28                   |
 | Autobiography                                                                                       | John Stuart Mill        |   NF  |  -  | 27                   |
 | Pieces of the Action                                                                                | Vannevar Bush           |   NF  |  -  | 27                   |
