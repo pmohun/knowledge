@@ -11,8 +11,9 @@ description: >-
 
 Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share)
 
-| How The Internet Happened                                                                           | Brian McCullough        |   NF  |  -  | 28                   |
+| Walden                                                                                              | Henry David Thoreau     |   NF  |  -  | 28                   |
 | --------------------------------------------------------------------------------------------------- | ----------------------- | :---: | :-: | -------------------- |
+| How The Internet Happened                                                                           | Brian McCullough        |   NF  |  -  | 28                   |
 | Adventures of a Young Naturalist                                                                    | David Attenborough      |   NF  |  -  | 28                   |
 | The Diversity Myth                                                                                  | Peter Thiel             |   NF  |  -  | 28                   |
 | The Obstacle is the Way                                                                             | Ryan Holiday            |   NF  |  -  | 28                   |
