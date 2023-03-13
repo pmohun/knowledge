@@ -13,14 +13,17 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title                                                                                               | Author                         | Category | Legend | Age                  |
 | --------------------------------------------------------------------------------------------------- | ------------------------------ | :------: | :----: | -------------------- |
-| Build                                                                                               | Tony Fadell                    |    AB    |    -   |                      |
-| Death's End                                                                                         | Liu Cixin                      |     F    |    -   |                      |
-| The Decadent Society                                                                                | Ross Douthat                   |    NF    |    -   |                      |
-| Total Recall                                                                                        | Arnold Schwarzenegger          |    AB    |    -   |                      |
-| The Man From the Future (Von Neumann)                                                               | Ananyo Bhattacharya            |     B    |    -   |                      |
-| Infinite Jest                                                                                       | David Foster Wallace           |    NF    |    -   |                      |
-| The Making of the Atomic Bomb                                                                       | Richard Rhodes                 |    NF    |    -   |                      |
-| American Prometheus                                                                                 | Kai Bird and Martin J. Sherwin |     B    |    -   |                      |
+| Meaning in History                                                                                  | Karl Lowith                    |    NF    |    -   | 28                   |
+| Democracy In America                                                                                | Alexis de Tocqueville          |    NF    |    -   | 28                   |
+| Things Hidden Since The Foundation Of The World                                                     | Rene Girard                    |     P    |    -   | 28                   |
+| Build                                                                                               | Tony Fadell                    |    AB    |    -   | 28                   |
+| Death's End                                                                                         | Liu Cixin                      |     F    |    -   | 28                   |
+| The Decadent Society                                                                                | Ross Douthat                   |    NF    |    -   | 28                   |
+| Total Recall                                                                                        | Arnold Schwarzenegger          |    AB    |    -   | 28                   |
+| The Man From the Future (Von Neumann)                                                               | Ananyo Bhattacharya            |     B    |    -   | 28                   |
+| Infinite Jest                                                                                       | David Foster Wallace           |    NF    |    -   | 28                   |
+| The Making of the Atomic Bomb                                                                       | Richard Rhodes                 |    NF    |    -   | 28                   |
+| American Prometheus                                                                                 | Kai Bird and Martin J. Sherwin |     B    |    -   | 28                   |
 | Walden                                                                                              | Henry David Thoreau            |    NF    |    -   | 28                   |
 | How The Internet Happened                                                                           | Brian McCullough               |    NF    |    -   | 28                   |
 | Adventures of a Young Naturalist                                                                    | David Attenborough             |    NF    |    -   | 28                   |
