@@ -13,6 +13,13 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title                                                                                               | Author                         | Category | Legend | Age                  |
 | --------------------------------------------------------------------------------------------------- | ------------------------------ | :------: | :----: | -------------------- |
+| Cinema Speculation                                                                                  | Quentin Tarantino              |    AB    |    -   | 28                   |
+| The Rise of Endymion                                                                                | Dan Simmons                    |     F    |    -   | 28                   |
+| Endymion                                                                                            | Dan Simmons                    |     F    |    -   | 28                   |
+| Essays In Idleness                                                                                  | Yoshida Kenkō                  |    NF    |    -   | 28                   |
+| On The Road                                                                                         | Jack Kerouac                   |    AB    |    -   | 28                   |
+| The Contrarian                                                                                      | Max Chafkin                    |     B    |    -   | 28                   |
+| In Patagonia                                                                                        | Bruce Chatwin                  |    NF    |    -   | 28                   |
 | Meaning in History                                                                                  | Karl Lowith                    |    NF    |    -   | 28                   |
 | Democracy In America                                                                                | Alexis de Tocqueville          |    NF    |    -   | 28                   |
 | Things Hidden Since The Foundation Of The World                                                     | Rene Girard                    |     P    |    -   | 28                   |
