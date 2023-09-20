@@ -13,6 +13,17 @@ Wishlist: [https://www.amazon.com/hz/wishlist/ls/IGNT0ACTUIV8?ref\_=wl\_share](h
 
 | Title                                                                                               | Author                         | Category | Legend | Age                  |
 | --------------------------------------------------------------------------------------------------- | ------------------------------ | :------: | :----: | -------------------- |
+| Sirens of Titan                                                                                     | Kurt Vonnegut                  |     F    |    -   | 29                   |
+| Savage Journey                                                                                      | Peter Richardson               |     B    |    -   | 29                   |
+| Godel, Escher, Bach                                                                                 | Douglas Hofstadter             |    NF    |    -   | 29                   |
+| Land and Sea                                                                                        | Carl Schmitt                   |    NF    |    -   | 29                   |
+| The Concept of the Political                                                                        | Carl Schmitt                   |    NF    |    -   | 29                   |
+| The Timeless Way of Building                                                                        | Christopher Alexander          |    NF    |    -   | 29                   |
+| Slouching Towards Bethlehem                                                                         | Joan Didion                    |    NF    |    -   | 29                   |
+| The Sovereign Individual                                                                            | James Dale Davidson            |    NF    |    -   | 29                   |
+| Elon Musk                                                                                           | Walter Isaacson                |     B    |    -   | 29                   |
+| From Third World to First                                                                           | Lee Kuan Yew                   |    AB    |    -   | 29                   |
+| The Tao of Physics                                                                                  | Fritjof Capra                  |    NF    |    -   | 29                   |
 | Cinema Speculation                                                                                  | Quentin Tarantino              |    AB    |    -   | 28                   |
 | The Rise of Endymion                                                                                | Dan Simmons                    |     F    |    -   | 28                   |
 | Endymion                                                                                            | Dan Simmons                    |     F    |    -   | 28                   |
